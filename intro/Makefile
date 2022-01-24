@@ -1,4 +1,4 @@
-
+make
 all: cpu mem threads io
 
 clean:
